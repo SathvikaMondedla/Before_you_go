@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# Before_you_go
+Before You Go is a multilingual digital guide that helps people understand real-world services before visiting them. It provides verified information on required documents, forms, signatures, payments and submission steps, with AI-powered Voice-to-Action and Information Checker features.
+>>>>>>> 155d95332d22bfe5c9ec85db965715d40c61ae78
