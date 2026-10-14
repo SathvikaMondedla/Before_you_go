@@ -1,0 +1,36 @@
+
+  {
+    "serviceId": "kitsw-bonafide",
+    "serviceName": "Bonafide Certificate",
+    "institution": "KITSW",
+    "category": "College Services",
+    "language": "English",
+    "status": "preliminary",
+    "verificationNote": "Based on preliminary student experience. Confirm the current procedure with the institution before relying on these steps.",
+    "preparationChecklist": [
+      "Confirm whether the college-prescribed application form is required.",
+      "Confirm whether a payment challan is required.",
+      "Ask which identity proof and supporting documents are required.",
+      "Check whether originals, photocopies, or payment receipts must be submitted."
+    ],
+    "procedure": [
+      {
+        "step": 1,
+        "instruction": "Confirm the current application procedure with the relevant college office."
+      },
+      {
+        "step": 2,
+        "instruction": "Complete the required form and payment process only after confirming the current instructions."
+      },
+      {
+        "step": 3,
+        "instruction": "Check all required documents and submit them at the designated location."
+      },
+      {
+        "step": 4,
+        "instruction": "Keep any acknowledgement or receipt and confirm how the certificate will be issued."
+      }
+    ],
+    "officialSource": null,
+    "lastVerified": null
+  }
